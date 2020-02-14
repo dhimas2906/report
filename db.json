@@ -1,9 +1,9 @@
 {
   "productivity": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-	{ "id": 3, "body": "some comment", "postId": 1 },
-    { "id": 4, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "regional", "traffic": 111 },
+    { "id": 2, "body": "nssemrang", "traffic": 222 },
+	{ "id": 3, "body": "nsyog", "traffic": 333 },
+    { "id": 4, "body": "nssmg", "traffic": 444 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
