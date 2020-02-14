@@ -1,8 +1,8 @@
 {
   "productivity": [
-    { "id": 1, "revenue": "1234" , "traffic":"9999", "payload":"3333" },
-    { "id": 2, "revenue": "1111" ,  "traffic":"9999", "payload":"3333" },
-    { "id": 3, "revenue": "2222" , "traffic":"9999", "payload":"3333" }
+    { "id": 1, "revenue": 1234 , "traffic": 9999, "payload": 3333 },
+    { "id": 2, "revenue": 1111 ,  "traffic": 9999, "payload": 3333 },
+    { "id": 3, "revenue": 222 , "traffic": 9999, "payload": 3333 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
