@@ -14,7 +14,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         },
         {
             "name": "NSsemarang",
@@ -30,7 +31,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         },
         {
             "name": "NSyogyakarta",
@@ -46,7 +48,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         },
         {
             "name": "NSsolo",
@@ -62,7 +65,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         },
         {
             "name": "NSpurwokerto",
@@ -78,7 +82,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         },
         {
             "name": "NSpekalongan",
@@ -94,7 +99,8 @@
             "py_yoy": "51%",
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
-            "rev_yoy": "51%"
+            "rev_yoy": "51%",
+            "total_rev": "12345"
         }
     ]
 }
