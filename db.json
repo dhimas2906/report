@@ -2,10 +2,11 @@
     "productivity": [
         {
             "name": "Regional",
-            "revenue": "111",
-            "traffic": "222",
-            "payload": "333",
-            "vlr": "444",
+            "revenue": "100",
+            "traffic": "200",
+            "payload": "300",
+            "vlr": "400",
+            "dev4g": "500",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -15,14 +16,15 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "10000"
         },
         {
             "name": "NSsemarang",
             "revenue": "111",
-            "traffic": "222",
-            "payload": "333",
-            "vlr": "444",
+            "traffic": "211",
+            "payload": "311",
+            "vlr": "411",
+            "dev4g": "511",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -32,14 +34,15 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "11111"
         },
         {
             "name": "NSyogyakarta",
-            "revenue": "111",
+            "revenue": "122",
             "traffic": "222",
-            "payload": "333",
-            "vlr": "444",
+            "payload": "322",
+            "vlr": "422",
+            "dev4g": "522",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -49,14 +52,15 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "12222"
         },
         {
             "name": "NSsolo",
-            "revenue": "111",
-            "traffic": "222",
+            "revenue": "133",
+            "traffic": "233",
             "payload": "333",
-            "vlr": "444",
+            "vlr": "433",
+            "dev4g": "533",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -66,14 +70,15 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "13333"
         },
         {
             "name": "NSpurwokerto",
-            "revenue": "111",
-            "traffic": "222",
-            "payload": "8989",
+            "revenue": "144",
+            "traffic": "244",
+            "payload": "344",
             "vlr": "444",
+            "dev4g": "544",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -83,14 +88,15 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "14444"
         },
         {
             "name": "NSpekalongan",
-            "revenue": "111",
-            "traffic": "222",
-            "payload": "7878",
-            "vlr": "444",
+            "revenue": "1155",
+            "traffic": "255",
+            "payload": "355",
+            "vlr": "455",
+            "dev4g": "555",
             "tr_wow": "-0.1%",
             "tr_mom": "45%",
             "tr_yoy": "51%",
@@ -100,7 +106,7 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_yoy": "51%",
-            "total_rev": "12345"
+            "total_rev": "15555"
         }
     ]
 }
