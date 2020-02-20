@@ -16,6 +16,12 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "10000"
         },
         {
@@ -34,6 +40,12 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "11111"
         },
         {
@@ -52,6 +64,12 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "12222"
         },
         {
@@ -70,6 +88,12 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "13333"
         },
         {
@@ -88,6 +112,12 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "14444"
         },
         {
@@ -106,7 +136,14 @@
             "rev_wow": "-0.1%",
             "rev_mom": "45%",
             "rev_ytd": "51%",
+			"vlr_wow": "-0.1%",
+            "vlr_mom": "45%",
+            "vlr_ytd": "51%",
+			"ava_wow": "-0.1%",
+            "ava_mom": "45%",
+            "ava_ytd": "51%",
             "total_rev": "15555"
         }
     ]
 }
+
